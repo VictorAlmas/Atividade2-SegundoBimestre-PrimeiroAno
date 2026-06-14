@@ -21,7 +21,7 @@ programa
 				escreva("Triangulo equilatero")
 			}
 			
-			senao se(n1 != n2 e n2 != n3)
+			senao se(n1 != n2 e n2 != n3 e n1 != n3)
 			
 			{
 				escreva("Triangulo escaleno")
@@ -42,4 +42,4 @@ programa
 	}
 // Triangulos
 // Esse ficou legal em
-}
+}	
