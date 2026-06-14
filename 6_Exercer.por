@@ -18,5 +18,5 @@ programa
 			escreva(Numero2)
 		}
 	
-	}
+	} //	Maior Numero entre 2
 }
