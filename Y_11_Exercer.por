@@ -34,5 +34,5 @@ programa
         {
             escreva("O ano " , ano , " não é um ano bissexto (tem 365 dias).")
         }
-    }
+    } //    Ano Bissexto
 }
