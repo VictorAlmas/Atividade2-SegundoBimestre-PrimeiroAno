@@ -13,5 +13,5 @@ programa
 		}senao{
 			escreva("A temperatura é negativa")
 		}
-	}
+	} //	Temperatura
 }
