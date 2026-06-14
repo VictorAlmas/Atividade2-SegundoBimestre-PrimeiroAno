@@ -57,7 +57,7 @@ programa
 				Desejado = "Refrigerante"
 				pare
 
-			caso 106:
+			caso 106:	
 
 				Custo = 1000.0
 				Desejado = "Semente dos Deuses" // Eu sou o Goku eh? E esse Karin ta mercenario em, vendendo uma Senzu por mil pila
@@ -71,11 +71,13 @@ programa
 
 		escreva("Tu Quer Quantos?\n")
 		leia(Quantidade)
-		escreva("\n")
 
+		limpa()
+
+		escreva("Desejado: " , Desejado , "\n")
+		escreva("Preco/Un: " , Custo , "\n")
+		escreva("Quantidade: " , Quantidade , "\n")
 		escreva("Valor Total: " , Quantidade * Custo)
 	
 	}
-// Cardapio
-// Feliz Aniversario Para Mim
 }
