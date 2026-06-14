@@ -46,5 +46,5 @@ programa
 		}senao{
 			escreva("A Raiz Quadrada de Delta nao pode ser calculada por ser um numero negativo, portanto X1 e X2 tambem nao puderam ser calculados")
 		}
-	}
-}
+	} //	Formula Quadratica
+} 
