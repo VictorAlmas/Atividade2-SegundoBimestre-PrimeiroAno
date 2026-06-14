@@ -54,5 +54,5 @@ programa
 								escreva("Custo Dos Dias: " , DiasComOCarro * 60 , " Reais." , "\n")
 								escreva("Custo Dos Km: " , KmAndandosComOCarro * 0.15 , " Reais." , "\n\n")
 								escreva("Custo Total: " , (DiasComOCarro * 60) + (KmAndandosComOCarro * 0.15) , " Reais.")
-	}
+	} //	Aluguel d Carro
 }
