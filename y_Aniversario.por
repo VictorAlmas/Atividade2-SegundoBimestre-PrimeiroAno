@@ -8,7 +8,7 @@ programa
 		inteiro Escada_Y = 0
 		inteiro Escada_I = 100
 
-					// Tentativa de um Chapeu de  Aniversario
+					// Tentativa de um Chapeu de Aniversario
 		
 		enquanto(Escada != 20)
 		{
