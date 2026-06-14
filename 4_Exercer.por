@@ -22,5 +22,5 @@ programa
 			escreva("\n" , "Nao foi multado, pabens" , "\n")
 		
 		}
-	}
+	} // Multa d F1
 }
