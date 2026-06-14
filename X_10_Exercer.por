@@ -10,7 +10,7 @@ programa
 
 			// Formacao de um triangulo
 
-		se(n1 + n2 > n3 e n1 + n3 > n2 e n2 + n3 > n2)
+		se(n1 + n2 > n3 e n1 + n3 > n2 e n2 + n3 > n1)
 		
 		{
 				// Qual Triangulo?
