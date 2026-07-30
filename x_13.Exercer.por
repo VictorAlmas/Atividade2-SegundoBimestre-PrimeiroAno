@@ -62,6 +62,11 @@ programa
 				Custo = 1000.0
 				Desejado = "Semente dos Deuses" // Eu sou o Goku eh? E esse Karin ta mercenario em, vendendo uma Senzu por mil pila
 				pare
+
+			caso contrario:
+
+				escreva("\nNao tem")
+				retorne
 		}
 
 		limpa()
