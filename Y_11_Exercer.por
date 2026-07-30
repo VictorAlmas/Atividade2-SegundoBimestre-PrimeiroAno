@@ -10,6 +10,7 @@ programa
         se(ano <= 0)
         {
             escreva("Nao podexx anoxx negativoxx: " , ano , "\n")
+            ano = 2026
         }
 
         se(ano % 4 == 0)
