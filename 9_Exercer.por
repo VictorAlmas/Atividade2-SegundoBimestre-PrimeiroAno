@@ -1,5 +1,6 @@
 programa
 {
+	inclua biblioteca Texto --> txt
 	
 	funcao inicio()
 	{
@@ -7,8 +8,9 @@ programa
 		
 		escreva("Informe uma Letra: ")
 		leia(letra)
+		letra = txt.caixa_alta(letra)
 
-		se(letra == "a" ou letra == "e" ou letra == "i" ou letra == "o" ou letra == "u")
+		se(letra == "A" ou letra == "E" ou letra == "I" ou letra == "O" ou letra == "U")
 		{
 			escreva("Eh Vogal")
 		}
@@ -18,5 +20,5 @@ programa
 		}	
 	}
 // Vogal ou Consoante
-// Ia fazer sistema de nao poder escreveer mais de uma letra ou uma palavra, mas fiquei com preguisa, sorry
+// Ia fazer sistema de nao poder escrever mais de uma letra ou uma palavra, mas fiquei com preguisa, sorry
 }
